@@ -1,0 +1,22 @@
+http://localhost:3000 /api/v1  /auth/login
+http://localhost:3000/api/v1 /auth/forget-password
+http://localhost:3000/api/v1 /auth/register
+http://localhost:3000/api/v1 /auth/reaste-password
+http://localhost:3000/api/v1 /auth/send-otp
+http://localhost:3000/api/v1 /auth/verify-account
+
+
+http://localhost:3000/api/v1/user/current-account
+http://localhost:3000/api/v1/user/delete-account
+http://localhost:3000/api/v1/user/edit-account
+http://localhost:3000/api/v1/user/all-users
+
+
+http://localhost:3000/api/v1/order/add-order
+http://localhost:3000/api/v1/order/delete-order
+http://localhost:3000/api/v1/order/edit-order
+http://localhost:3000/api/v1/order/:orderId
+http://localhost:3000/api/v1/order/all-order
+
+
+// 
